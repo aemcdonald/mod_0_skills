@@ -1,0 +1,15 @@
+var food = "apples";
+
+var isDelicious = true;
+
+food = "oranges";
+
+var num2 = 2;
+
+var num7 = 7;
+
+var quotient = (num2/num7);
+
+var songs = ["Sky", "Moon", "Stars"];
+songs.shift();
+food.length;
