@@ -1,0 +1,13 @@
+Brasserie TenTen Kitchen
+
+Values
+lineCooks: ["Bob", "Steve", "Sarah"]
+numberOfOvens: 2
+openTime: 10:00 am
+chef: ["Chef John", "Chef Anna"]
+
+Results
+hireLineCook: .push("Joe") adds Joe to lineCooks array = ["Bob", "Steve", "Sarah", "Joe"]
+addOven: 2 + 1 = 3
+changeOpenTime: "Our kitchen no longer opens at " + openTime + " but now opens at 11:00 am"
+hireChef: .push("Chef Will") = ["Chef John", "Chef Anna", "Chef Will"]
