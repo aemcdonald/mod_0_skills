@@ -4,7 +4,7 @@ Values
 lineCooks: ["Bob", "Steve", "Sarah"]
 numberOfOvens: 2
 openTime: 10:00 am
-chef: ["Chef John", "Chef Anna"]
+chefs: ["Chef John", "Chef Anna"]
 
 Results
 hireLineCook: .push("Joe") adds Joe to lineCooks array = ["Bob", "Steve", "Sarah", "Joe"]

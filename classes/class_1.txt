@@ -4,10 +4,10 @@ Attributes
 lineCooks (array)
 numberOfOvens (integer)
 openTime (string)
-chef (array)
+chefs (array)
 
 Methods
 hireLineCook: .push method adds new line cook to lineCooks array
 addOven numberOfOvens + 1
 changeOpenTime: open time string changes to a different open time
-hireChef .push method adds new chef to chef array
+hireChef .push method adds new chef to chefs array
