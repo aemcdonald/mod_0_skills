@@ -10,4 +10,4 @@ Results
 addBartender: .push("Sam") = ["John", "Al", "Cindy", "Sam"]
 addBarstool: 10 + 1 = 11
 changeOpenTime: "Our hours have changed from " + openTime + to "8:00 pm"
-addManager: managers.push("Joe") = ["Rick", "Sarah", "Joe"]
+addManager: managers.push("Joe") = ["Rick", "Sarah", "Joe"] 
