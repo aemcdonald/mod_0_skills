@@ -1,0 +1,13 @@
+Bar class
+
+Attributes
+bartenders (array)
+barstools (number)
+openTime (string)
+managers (array)
+
+Methods
+addBartender: .push method adds name of new bartender to bartenders array
+addBarstool: (barstools + 1)
+changeOpenTime: openTime string changes to a new open time
+addManager: .push method adds name of new manager to managers array
