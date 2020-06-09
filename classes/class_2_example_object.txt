@@ -1,0 +1,13 @@
+License Number 1
+
+Values
+bartenders: ["John" "Al" "Cindy"]
+barstools: 10
+openTime: 5:00 pm
+managers: ["Rick" "Sarah"]
+
+Results
+addBartender: .push("Sam") = ["John" "Al" "Cindy", "Sam"]
+addBarstool: 10 + 1 = 11
+changeOpenTime: "Our hours have changed from " + openTime + to "8:00 pm"
+addManager: managers.push("Joe") = ["Rick" "Sarah", "Joe"]
